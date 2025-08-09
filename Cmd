@@ -1,0 +1,3 @@
+ls
+pmd
+echo "hello world "
